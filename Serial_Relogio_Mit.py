@@ -1,6 +1,5 @@
 ###################################
 # Autor: Davi Fuhr
-# Propriedade Tecsistel Sistemas Eletrônicos Ltda
 ###################################
 import serial
 import os
