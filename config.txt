@@ -1,0 +1,2 @@
+porta=COM4
+baud_rate=9600
