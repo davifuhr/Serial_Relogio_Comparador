@@ -1,4 +1,4 @@
-# Relógio Comparador - Script de Comunicação Serial
+# Script de Comunicação Serial - Relógio Comparador
 
 Este projeto é um script Python desenvolvido para se comunicar com um Relógio Comparador através de uma porta serial. Ele permite enviar comandos e registrar respostas, como leituras de deformação ou o número de série do equipamento, enquanto realiza o log de eventos relevantes para um arquivo de texto.
 
